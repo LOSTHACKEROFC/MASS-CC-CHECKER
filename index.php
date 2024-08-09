@@ -14,7 +14,7 @@
   <meta property="og:image" content="https://rawcdn.githack.com/OshekharO/Entertainment-Index/17d005915d5e20780a46aef227f08367ca8efb3a/img/apple-touch-icon.png" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
-  <meta name="copyright" content="Copyright © 2023 OshekharO" />
+  <meta name="copyright" content="Copyright © 2023 GALAXY CARDER" />
   <meta property="og:image" content="https://rawcdn.githack.com/OshekharO/Entertainment-Index/17d005915d5e20780a46aef227f08367ca8efb3a/img/android-chrome-512x512.png" />
   <link rel="shortcut icon" href="https://rawcdn.githack.com/OshekharO/Entertainment-Index/17d005915d5e20780a46aef227f08367ca8efb3a/img/favicon.ico" type="image/x-icon" />
   <link rel="apple-touch-icon" sizes="180x180" href="https://rawcdn.githack.com/OshekharO/Entertainment-Index/17d005915d5e20780a46aef227f08367ca8efb3a/img/apple-touch-icon.png" />
